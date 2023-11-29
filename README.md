@@ -4,7 +4,7 @@
 
 what am i doing now:
 
-- learning js,py and c#
+- learning js,py, and c#
 - making web
 - being student
 - trying to do better
