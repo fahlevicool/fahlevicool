@@ -9,6 +9,6 @@
 
 - learning js,py, and c#
 - making web
-- being student
+- being an a student
 - trying to do better
 
