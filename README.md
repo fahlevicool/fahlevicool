@@ -2,13 +2,12 @@
 <h3 align="center">just some ordinary programmer that love anime, games, and music</h3>
 <hr>
 
-<h4>Status: dying because of exams</h4>
+<h4>Status: fighting lazyness</h4>
 <br>
 
 <h3>what am i doing now:</h3>
 
 - learning js,py, and c#
-- making web
 - being an a student
 - trying to do better
 
