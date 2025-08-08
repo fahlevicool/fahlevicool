@@ -2,5 +2,7 @@
 <h3 align="center">just some ordinary programmer that love anime, games, and music</h3>
 <hr>
 
-WTF AM I DOING
+<div class="justify-self">
+  WTF AM I DOING
+</div>
 
