@@ -2,7 +2,7 @@
 <h3 align="center">just some ordinary programmer that love anime, games, and music</h3>
 <hr>
 
-<div class="justify-content center">
+<div class="">
   WTF AM I DOING
 </div>
 
